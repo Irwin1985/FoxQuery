@@ -1,0 +1,8 @@
+{
+  "name": "foxquery",
+  "version": "1.0.2",
+  "description": "Named SQL queries for Visual FoxPro 9: one .sql file per query, run by name on SQL Server, MySQL, MariaDB, PostgreSQL, Firebird, SQLite or DBF, compiled to a signed catalog",
+  "license": "MIT",
+  "files": ["foxquery.prg"],
+  "usage": "SET PROCEDURE TO foxquery.prg ADDITIVE"
+}
